@@ -23,7 +23,7 @@ Si4703のライブラリは<a href="https://github.com/sparkfun/Si4703_FM_Tuner_
  ・Xtal発振器（16MHz）、コンデンサ・抵抗類
 </p>
 <p>
-<img src="[.]/SI4703_BRK_1.jpg" width="480" height="360">
+<img src="https://github.com/asmnoak/Si4703_breakout_radio_oled/blob/main/SI4703_BRK_1.JPG" width="480" height="360">
 FM 85.2MHzを受信中
 </p>
 <p><strong>操作</strong><br>
