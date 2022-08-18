@@ -23,7 +23,7 @@ Si4703のライブラリは<a href="https://github.com/sparkfun/Si4703_FM_Tuner_
  ・Xtal発振器（16MHz）、コンデンサ・抵抗類
 </p>
 <p>
-<img src="https://github.com/asmnoak/Si4703_breakout_radio_oled/main/SI4703_BRK_1.jpg" width="480" height="360">
+<img src="https://github.com/asmnoak/Si4703_breakout_radio_oled/blob/main/SI4703_BRK_1.jpg" width="480" height="360">
 FM 85.2MHzを受信中
 </p>
 <p><strong>操作</strong><br>
@@ -94,7 +94,7 @@ I2C接続&nbsp; Si4703と表示装置（マルチドロップで接続）<br>
 ・Atmega328pをArduinoとして使うことに関しては<a href="https://ht-deko.com/arduino/atmega328p.html">こちら</a>を参考にするとよい。<br>
 </p>
 <p>
-<img src="https://github.com/asmnoak/Si4703_breakout_radio_oled/main/SI4703_BRK_2.jpg" width="450" height="400">
+<img src="https://github.com/asmnoak/Si4703_breakout_radio_oled/blob/main/SI4703_BRK_2.jpg" width="450" height="400">
 基板上の配置の様子。右がAtmega328p、左がSi4703基板。電源はUSB、AMS1117-3.3により3.3Vに変換している。
 </p>
 <p><strong>注意事項</strong><br>
