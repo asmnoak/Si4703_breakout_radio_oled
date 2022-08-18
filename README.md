@@ -94,7 +94,7 @@ I2C接続&nbsp; Si4703と表示装置（マルチドロップで接続）<br>
 ・Atmega328pをArduinoとして使うことに関しては<a href="https://ht-deko.com/arduino/atmega328p.html">こちら</a>を参考にするとよい。<br>
 </p>
 <p>
-<img src="https://github.com/asmnoak/Si4703_breakout_radio_oled/blob/main/SI4703_BRK_2.jpg" width="450" height="400">
+<img src="https://github.com/asmnoak/Si4703_breakout_radio_oled/blob/main/SI4703_BRK_2.JPG" width="450" height="400">
 基板上の配置の様子。右がAtmega328p、左がSi4703基板。電源はUSB、AMS1117-3.3により3.3Vに変換している。
 </p>
 <p><strong>注意事項</strong><br>
