@@ -90,7 +90,7 @@ I2C接続&nbsp; Si4703と表示装置（マルチドロップで接続）<br>
 <p><strong>若干の解説</strong><br>
 ・Si4703のライブラリ（Si4703_Breakout.cpp）は受信範囲を拡大(76-108Mhz)するため<br>
 オリジナルのコードを変更している（行30、行152）。<br>
-・受信局の変更ついては、割り込み機能を利用している。例&nbsp;void station_setting()<br>
+・受信局の変更は、割り込み機能を利用している。例&nbsp;void station_setting()<br>
 ・Atmega328pをArduinoとして使うことに関しては<a href="https://ht-deko.com/arduino/atmega328p.html">こちら</a>を参考にするとよい。<br>
 </p>
 <p>
